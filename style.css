@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: 'Open Sans', sans-serif;
+    background-color:cadetblue;
+    
+}
+textarea {
+	width: 100%;
+	padding: 20px;
+	font-size: 12pt;
+	margin-bottom: 20px;
+    box-sizing : border-box;
+    text-align: center;
+    border-radius: 20px;
+    background-color: darkgray;
+    tekt font-style: border: 
+
+}
+
+input {
+    width: 100%;
+	padding: 20px;
+	font-size: 12pt;
+	margin-bottom: 20px;
+    box-sizing : border-box;
+    text-align: center;
+    border-radius: 20px;
+    background-color: darkgray;
+
+}
+
+table{
+    padding: 5px;
+}
